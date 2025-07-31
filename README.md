@@ -53,20 +53,31 @@ The goal was to design and implement a fully functional Snake game featuring:
 | R          | Restart after crash |
 | Q          | Quit after crash    |
 
-📌 Learning Highlights
+---
+
+## Learning Highlights📌
 
 ✅ Real-time game loops
+
 ✅ Collision and boundary detection
+
 ✅ File I/O for score saving
+
 ✅ Clean code structure and modular functions
+
 ✅ Dark UI/UX and grid rendering using Pygame
 
-🙌 Acknowledgment
+---
+
+## Acknowledgment🙌
 
 This project was completed as part of an internship task by InternPe — grateful for the hands-on opportunity to apply and showcase my Python skills.
 
-🔗 Connect
+---
+
+## Connect🔗
 Let's connect on LinkedIn
+
 If you found this helpful, leave a ⭐ on the repo or drop a comment!
 
 
