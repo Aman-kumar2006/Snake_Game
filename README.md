@@ -76,7 +76,7 @@ This project was completed as part of an internship task by InternPe — gratefu
 ---
 
 ## Connect🔗
-Let's connect on LinkedIn
+Let's connect on [LinkedIn](https://www.linkedin.com/in/aman-kumar-8b988b28b)  
 
 If you found this helpful, leave a ⭐ on the repo or drop a comment!
 
